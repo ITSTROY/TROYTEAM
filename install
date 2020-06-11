@@ -21,7 +21,7 @@ sudo apt-get install libnotify-dev -y
 sudo chmod +x tg
 lua TROYTEAM.lua
 sudo chmod +x TROYTEAM
-sudo chmod +x ./TR
+sudo chmod +x ./BK
 ./TR
 }
 if [ "$1" = "install" ]; then
@@ -34,6 +34,6 @@ fi
 sudo chmod +x tg
 lua TROYTEAM.lua
 sudo chmod +x TROYTEAM
-sudo chmod +x ./TR
-./TR
+sudo chmod +x ./BK
+./BK
 fi

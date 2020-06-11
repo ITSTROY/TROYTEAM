@@ -99,7 +99,7 @@ echo -e "\e[36m"
 done
 ]])  
 file:close()  
-file = io.open("TR", "w")  
+file = io.open("BK", "w")  
 file:write([[
 #!/usr/bin/env bash
 cd $HOME/TROYTEAM
